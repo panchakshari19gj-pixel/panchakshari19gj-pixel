@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=Hi%2C+I%27m+Panchakshari+G+J;AI+%26+Robotics+Student;Learning.+Building.+Growing." alt="Animated introduction" />
+<a href="https://github.com/panchakshari19gj-pixel"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=Hi%2C+I%27m+Panchakshari+G+J;AI+%26+Robotics+Student;Learning.+Building.+Growing." alt="Animated introduction" /></a>
 
 <p>
   <a href="https://github.com/panchakshari19gj-pixel?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-161b22?style=flat&logo=github&logoColor=58A6FF" alt="Explore projects" /></a>
@@ -27,7 +27,7 @@
 ### `$ tech --list`
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,git,github,vscode,linux&theme=dark" alt="Technology and tools icons" />
+  <a href="https://github.com/panchakshari19gj-pixel?tab=repositories"><img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,git,github,vscode,linux&theme=dark" alt="Technology and tools icons" /></a>
 </p>
 
 > Still learning these tools—this list will grow as I build more projects.
@@ -35,18 +35,18 @@
 ### `$ git --stats`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=panchakshari19gj-pixel&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panchakshari19gj-pixel&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff99&text_color=c9d1d9" alt="Top languages" />
+  <a href="https://github.com/panchakshari19gj-pixel?tab=repositories"><img height="165" src="https://github-readme-stats.vercel.app/api?username=panchakshari19gj-pixel&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" /></a>
+  <a href="https://github.com/panchakshari19gj-pixel?tab=repositories"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panchakshari19gj-pixel&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff99&text_color=c9d1d9" alt="Top languages" /></a>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=panchakshari19gj-pixel&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+  <a href="https://github.com/panchakshari19gj-pixel"><img src="https://streak-stats.demolab.com?user=panchakshari19gj-pixel&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub contribution streak" /></a>
 </div>
 
 ### `$ contributions --graph`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=panchakshari19gj-pixel&bg_color=0d1117&color=c9d1d9&line=00ff99&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
+  <a href="https://github.com/panchakshari19gj-pixel?tab=activity"><img src="https://github-readme-activity-graph.vercel.app/graph?username=panchakshari19gj-pixel&bg_color=0d1117&color=c9d1d9&line=00ff99&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" /></a>
 </div>
 
 ### `$ ls ./projects`
