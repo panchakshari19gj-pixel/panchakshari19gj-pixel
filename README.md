@@ -46,7 +46,7 @@
 ### `$ contributions --graph`
 
 <div align="center">
-  <a href="https://github.com/panchakshari19gj-pixel?tab=activity"><img src="https://github-readme-activity-graph.vercel.app/graph?username=panchakshari19gj-pixel&bg_color=0d1117&color=c9d1d9&line=00ff99&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" /></a>
+  <a href="https://github.com/panchakshari19gj-pixel?tab=overview"><img src="https://ghchart.rshah.org/00ff99/panchakshari19gj-pixel" alt="GitHub contribution graph for Panchakshari G J" /></a>
 </div>
 
 ### `$ ls ./projects`
