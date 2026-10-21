@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=2800&pause=800&color=00FF99&center=true&vCenter=true&width=760&lines=%24+whoami+%E2%86%92+Panchakshari+G+J;%24+initializing+developer+mode...;%24+learn.+build.+debug.+repeat.;%24+welcome+to+my+ GitHub+terminal" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=2800&pause=800&color=00FF99&center=true&vCenter=true&width=760&lines=%24+whoami+%E2%86%92+Panchakshari+G+J;%24+initializing+developer+mode...;%24+learn.+build.+debug.+repeat.;%24+welcome+to+my+GitHub+terminal" alt="Typing intro" />
 
 <br/>
 
