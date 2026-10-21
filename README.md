@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=Hi%2C+I%27m+Panchakshari+G+J;Computer+Science+Student;Learning.+Building.+Growing." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=Hi%2C+I%27m+Panchakshari+G+J;AI+%26+Robotics+Student;Learning.+Building.+Growing." alt="Animated introduction" />
 
 <p>
   <a href="https://github.com/panchakshari19gj-pixel?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-161b22?style=flat&logo=github&logoColor=58A6FF" alt="Explore projects" /></a>
@@ -19,9 +19,9 @@
 
 ### `$ whoami`
 
-- 🎓 Student exploring software development and computer science.
-- 🧠 Learning by building projects and practicing problem-solving.
-- 🛠️ Interested in programming, technology, and useful tools.
+- 🎓 AI and Robotics student exploring intelligent systems, automation, and robotics.
+- 🧠 Learning by experimenting, building projects, and solving real-world problems.
+- 🛠️ Interested in AI, robotics, automation, and building useful technology.
 - 🎯 Goal: keep learning, ship projects, and get better every day.
 
 ### `$ tech --list`
