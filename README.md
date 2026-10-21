@@ -5,39 +5,15 @@
 
 <div align="center">
 
-# 👨‍💻 Panchakshari G J
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=Hi%2C+I%27m+Panchakshari+G+J;Computer+Science+Student;Learning.+Building.+Growing." alt="Animated introduction" />
 
-### `Developer in Progress | Learn • Build • Improve`
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff99?style=for-the-badge&labelColor=0d1117" alt="Status online" />
-<img src="https://img.shields.io/badge/FOCUS-CODING-00ff99?style=for-the-badge&labelColor=0d1117" alt="Focus coding" />
-<img src="https://img.shields.io/badge/BASED-INDIA-00ff99?style=for-the-badge&labelColor=0d1117" alt="Based in India" />
-
-</div>
-
-```text
-┌─[ panchakshari@github ]───────────────────────────────┐
-│                                                       │
-│  $ whoami                                             │
-│  Panchakshari G J                                     │
-│                                                       │
-│  $ current_status                                     │
-│  Learning new skills and building projects            │
-│                                                       │
-│  $ mission                                            │
-│  Turn ideas into useful things.                       │
-│                                                       │
-│  $ echo "keep going"                                  │
-│  keep going                                           │
-└───────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Visit_Profile-181717?style=flat-square&logo=github)](https://github.com/panchakshari19gj-pixel)
-[![Repositories](https://img.shields.io/badge/Explore-My_Repositories-00ff99?style=flat-square&logo=github&logoColor=0d1117)](https://github.com/panchakshari19gj-pixel?tab=repositories)
+<p>
+  <a href="https://github.com/panchakshari19gj-pixel?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-161b22?style=flat&logo=github&logoColor=58A6FF" alt="Explore projects" /></a>
+  <img src="https://img.shields.io/badge/Open_to-Learning-161b22?style=flat&labelColor=161b22&color=238636" alt="Open to learning" />
+</p>
 
 </div>
+
 
 ---
 
