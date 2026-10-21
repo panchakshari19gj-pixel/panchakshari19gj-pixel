@@ -5,28 +5,37 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=2800&pause=800&color=00FF99&center=true&vCenter=true&width=760&lines=%24+whoami+%E2%86%92+Panchakshari+G+J;%24+initializing+developer+mode...;%24+learn.+build.+debug.+repeat.;%24+welcome+to+my+GitHub+terminal" alt="Typing intro" />
+# 👨‍💻 Panchakshari G J
 
-<br/>
+### `Developer in Progress | Learn • Build • Improve`
 
-<pre>
-┌──────────────────────────────────────────────────────────────┐
-│  panchakshari@github:~$ ./profile.sh                         │
-│                                                              │
-│   ____                  _          _                         │
-│  |  _ \ __ _ _ __   ___| | ____ _| |__   __ _ _ __           │
-│  | |_) / _` | '_ \ / __| |/ / _` | '_ \ / _` | '__|          │
-│  |  __/ (_| | | | | (__|   < (_| | |_) | (_| | |             │
-│  |_|   \__,_|_| |_|\___|_|\_\__,_|_.__/ \__,_|_|             │
-│                                                              │
-│  STATUS : Learning • Building • Improving                    │
-│  MODE   : Terminal / Developer                               │
-└──────────────────────────────────────────────────────────────┘
-</pre>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff99?style=for-the-badge&labelColor=0d1117" alt="Status online" />
+<img src="https://img.shields.io/badge/FOCUS-CODING-00ff99?style=for-the-badge&labelColor=0d1117" alt="Focus coding" />
+<img src="https://img.shields.io/badge/BASED-INDIA-00ff99?style=for-the-badge&labelColor=0d1117" alt="Based in India" />
 
-**Panchakshari G J** · aspiring developer · lifelong learner
+</div>
 
-[GitHub](https://github.com/panchakshari19gj-pixel) · [Repositories](https://github.com/panchakshari19gj-pixel?tab=repositories)
+```text
+┌─[ panchakshari@github ]───────────────────────────────┐
+│                                                       │
+│  $ whoami                                             │
+│  Panchakshari G J                                     │
+│                                                       │
+│  $ current_status                                     │
+│  Learning new skills and building projects            │
+│                                                       │
+│  $ mission                                            │
+│  Turn ideas into useful things.                       │
+│                                                       │
+│  $ echo "keep going"                                  │
+│  keep going                                           │
+└───────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Visit_Profile-181717?style=flat-square&logo=github)](https://github.com/panchakshari19gj-pixel)
+[![Repositories](https://img.shields.io/badge/Explore-My_Repositories-00ff99?style=flat-square&logo=github&logoColor=0d1117)](https://github.com/panchakshari19gj-pixel?tab=repositories)
 
 </div>
 
